@@ -236,7 +236,7 @@ footer {
 }
 
   /* Layar Computer 1920*1080 */
-  @media screen and (max-width: 2500px) {
+  @media screen and (max-width: 1400px) {
     header {
       overflow: hidden;
       background-color: rgba(68, 66, 66, 0);
