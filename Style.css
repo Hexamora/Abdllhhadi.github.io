@@ -164,10 +164,15 @@ footer {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 500px) {
   header {
     height: auto;
     padding: 15px 5%;
+  }
+
+  #logo{
+    position: relative;
+    margin-left: 40%;
   }
 
   .nav {
