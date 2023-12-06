@@ -87,6 +87,7 @@ video {
   justify-content: center;
   width: 100%;
   height: 100%;
+  backdrop-filter: blur(0.5px);
   border-bottom: 2px solid rgb(140, 169, 87);
 }
 
@@ -298,6 +299,7 @@ footer {
     justify-content: center;
     width: 100%;
     height: 100%;
+    backdrop-filter: blur(0.5px);
     border-bottom: 2px solid rgb(140, 169, 87);
   }
 
