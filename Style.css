@@ -87,7 +87,6 @@ video {
   justify-content: center;
   width: 100%;
   height: 100%;
-  backdrop-filter: blur(5px);
   border-bottom: 2px solid rgb(140, 169, 87);
 }
 
@@ -193,7 +192,6 @@ footer {
   #container,
   .video-overlay {
     height: 300px; /* Sesuaikan tinggi container video dan overlay */
-    backdrop-filter: blur(0px);
   }
 
   .video-overlay h2 {
