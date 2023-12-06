@@ -193,6 +193,7 @@ footer {
   #container,
   .video-overlay {
     height: 300px; /* Sesuaikan tinggi container video dan overlay */
+    backdrop-filter: blur(0px);
   }
 
   .video-overlay h2 {
