@@ -183,6 +183,7 @@ footer {
   }
 
   #menu-icon {
+    display: none;
     padding: 15px;
   }
 
