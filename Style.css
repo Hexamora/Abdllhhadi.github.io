@@ -170,6 +170,11 @@ footer {
 
 /* Layar HP */
 @media screen and (max-width: 768px) {
+  .header{
+    background-color: rgba(240, 248, 255, 0.086);
+    position: static;
+  }
+
   header {
     height: 50px;
     padding: 15px 5%;
