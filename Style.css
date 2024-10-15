@@ -330,10 +330,11 @@ footer {
   }
   
   .AboutMe-image img{
-    border: 1px solid rgba(37, 248, 0, 0.348);
-    border-radius: 48%;
-    background-color: rgb(48, 66, 45);
+    border: 1.2px solid rgb(255, 255, 255);
+    border-radius: 60%;
+    background-color: rgba(41, 41, 26, 0.685);
     width: 525px;
+    box-shadow: 0 0 100px white;
   }
   
   .AboutMe-image:hover{
